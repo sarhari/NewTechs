@@ -1,3 +1,6 @@
 welcome
 
 world
+
+welcome
+home
